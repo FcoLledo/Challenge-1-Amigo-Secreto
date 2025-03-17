@@ -1,27 +1,21 @@
 # Challenge Amigo Secreto
 
+Desarrollar una aplicación que permita a los usuarios ibgresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-%20TERMINADO-green">
    </p>
 
-## Índice
+## Herramientas utilizadas
+ * HTML
+ * CSS
+ * JavaScript
 
-* [Índice](#índice)
+## Autor
 
-* [Descripción del proyecto](#descripción-del-proyecto)
+* Francisco Lledó
 
-* [Estado del proyecto](#Estado-del-proyecto)
+## Expresiones de Gratitud
 
-* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-* [Acceso al proyecto](#acceso-proyecto)
-
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
-
-* [Personas Contribuyentes](#personas-contribuyentes)
-
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-* [Conclusión](#conclusión)
+* Gracias a todos los profesores de Alura, me han motivado a seguir aprendiendo.
+* Gracias a Alura Latam por la oportunidad. 
